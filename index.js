@@ -4,6 +4,7 @@ const Validate = {
      * 手机号校验
      */
     mobileCheck: (value) => /^[1][3,4,5,7,8][0-9]{9}$/.test(value),
+    
 
     /**
      * 身份证校验
