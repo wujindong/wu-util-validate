@@ -1,6 +1,7 @@
 {
   "name": "wu-util-validate",
-  "version": "1.0.0",
+  "version": "1.0.3",
+  "keywords":["node.js"],
   "description": "",
   "main": "index.js",
   "scripts": {
